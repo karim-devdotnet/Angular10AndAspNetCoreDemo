@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\DatingApp",
-    "\\DatingApp\\client",
+    "\\DatingApp\\API",
+    "\\DatingApp\\API\\Data",
+    "\\DatingApp\\API\\Entities",
     "\\DatingApp\\client\\src"
   ],
-  "SelectedNode": "\\DatingApp\\DatingApp.sln",
+  "SelectedNode": "\\DatingApp\\API\\Data\\DataContext.cs",
   "PreviewInSolutionExplorer": false
 }
