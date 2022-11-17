@@ -3,10 +3,11 @@
     "",
     "\\DatingApp",
     "\\DatingApp\\API",
+    "\\DatingApp\\API\\Controllers",
     "\\DatingApp\\API\\Data",
-    "\\DatingApp\\API\\Entities",
-    "\\DatingApp\\client\\src"
+    "\\DatingApp\\API\\DTOs",
+    "\\DatingApp\\API\\Entities"
   ],
-  "SelectedNode": "\\DatingApp\\API\\Data\\DataContext.cs",
+  "SelectedNode": "\\DatingApp\\API\\DTOs\\RegisterDto.cs",
   "PreviewInSolutionExplorer": false
 }
