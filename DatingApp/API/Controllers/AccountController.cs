@@ -48,7 +48,7 @@ namespace API.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<ActionResult<UserDto  >> Login(LoginDto loginDto)
+        public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
             var user = await _DataContext.Users.SingleOrDefaultAsync(x => x.UserName == loginDto.Username);
 

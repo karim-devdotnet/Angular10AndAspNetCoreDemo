@@ -6,8 +6,9 @@
     "\\DatingApp\\API\\Controllers",
     "\\DatingApp\\API\\Data",
     "\\DatingApp\\API\\DTOs",
-    "\\DatingApp\\API\\Entities"
+    "\\DatingApp\\API\\Entities",
+    "\\DatingApp\\API\\Services"
   ],
-  "SelectedNode": "\\DatingApp\\API\\DTOs\\RegisterDto.cs",
+  "SelectedNode": "\\DatingApp\\DatingApp.sln",
   "PreviewInSolutionExplorer": false
 }
