@@ -71,6 +71,7 @@ namespace API.Controllers
 
         private Task<bool> UserExists(string userName)
         {
+            var test = _DataContext.Users.ToList();
             return _DataContext.Users.AnyAsync(x => x.UserName == userName.ToLower());
         }
     }

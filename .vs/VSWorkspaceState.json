@@ -9,6 +9,6 @@
     "\\DatingApp\\API\\Entities",
     "\\DatingApp\\API\\Services"
   ],
-  "SelectedNode": "\\DatingApp\\DatingApp.sln",
+  "SelectedNode": "\\DatingApp\\API\\Controllers\\AccountController.cs",
   "PreviewInSolutionExplorer": false
 }
